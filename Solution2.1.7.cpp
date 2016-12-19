@@ -13,7 +13,6 @@ Output: index1=1, index2=2
 #include <string>
 #include <iostream>
 #include<cstring>
-#include<queue>
 #include<algorithm>
 using namespace std;
 
@@ -51,6 +50,6 @@ int main(){
 	return 0;
 	
 }
-运行后：
-1 2 3 4 5 6 7 8 5 6 7 8 9 10 11 
-1 12
+//运行后：
+//1 2 3 4 5 6 7 8 5 6 7 8 9 10 11 
+//1 12
